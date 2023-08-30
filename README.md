@@ -1,1 +1,1 @@
-# CourseFile
+I am EDIGA SUSEELA hereby declare that the work which is being presented in this course File “DIGITAL DESIGN USING VERILOG HDL-RTL Coding and Synthesis” by me,in partialfulfillment of the requirements for the award of “Advance VLSI Design and Verification” Trainee at SURE TRUST.
